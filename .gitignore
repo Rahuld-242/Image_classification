@@ -5,3 +5,7 @@ models/
 __pycache__/
 *.pyc
 
+# Ignore all data folders
+data/train/
+data/test/
+data/valid/
